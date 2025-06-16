@@ -1,20 +1,56 @@
-# 👋 Hello You Python
+👋 Hi, I'm Muhammad Khalid Anwar!
 
-Welcome to my very first interactive Python project!  
-This simple script takes your name and age as input and then greets you using formatted output — perfect for beginners. 🎯
+🎓 I'm a Computer Science student passionate about technology, cybersecurity, and solving complex problems through intelligent systems.
+💻 Currently focused on building projects in Artificial Intelligence, Machine Learning, and Python-based security tools.
+🔐 With a growing interest in Cybersecurity, I love exploring how secure systems are built, tested, and protected.
+🚀 Currently working as a student intern in the DeepVN Internship program, where I actively complete real-world tasks involving Python, AI, and ML problem-solving, and upload them regularly to my GitHub.
 
----
-
-## 🚀 What This Project Does
-- 🧠 Takes user input (name and age)
-- 🧾 Uses f-strings to display a custom message
-- 👨‍💻 A great way to learn basic Python syntax and interaction
 
 ---
 
-## 🧪 Code Preview
+🧠 Interests & Focus
 
-```python
-name = input("Enter your name: ")
-age = int(input("Enter your age: "))
-print(f"Hello, my name is {name} and I am {age} years old.")
+🔐 Cybersecurity & Ethical Hacking
+
+🤖 Artificial Intelligence & Machine Learning
+
+🐍 Python Programming & Automation
+
+🌐 Web Development (learning phase)
+
+🧠 Solving algorithmic challenges and ML problems
+
+📁 Open-source contributions & real-world applications
+
+
+
+---
+
+🛠️ Languages & Tools
+
+      
+
+
+---
+
+📈 GitHub Stats
+
+
+
+
+---
+
+📫 Let's Connect
+
+💼 LinkedIn
+
+📁 My Projects
+
+✉️ Email: m.khalidanwar888@gmail.com
+
+
+
+---
+
+⭐️ Thanks for visiting my profile! I'm always open to collaborations, internships, and learning opportunities—especially in AI, cybersecurity, and impactful tech projects.
+
